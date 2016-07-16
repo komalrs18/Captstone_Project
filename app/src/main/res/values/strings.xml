@@ -68,5 +68,9 @@
     <string name="activity_car_detail_chart_content_desc">Miles Per Gallon Over Time</string>
     <string name="add_car_bad_year_error">Incorrect Year</string>
 
+    <string name="remove_car">Delete Your Car</string>
+    <string name="edit_car">Edit Your Car Information</string>
+    <string name="add_fillup">Add Your Gas Fillup Measurements</string>
+
 
 </resources>
