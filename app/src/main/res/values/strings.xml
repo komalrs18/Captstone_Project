@@ -71,6 +71,8 @@
     <string name="remove_car">Delete Your Car</string>
     <string name="edit_car">Edit Your Car Information</string>
     <string name="add_fillup">Add Your Gas Fillup Measurements</string>
+    <string name="station_search">Search For Your Station Using the Address</string>
+    <string name="add_car">Add Your Car Information</string>
 
 
 </resources>

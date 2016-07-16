@@ -75,6 +75,7 @@
             android:text="@string/add_car_add_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:nextFocusUp="@id/add_car_year"/>
+            android:nextFocusUp="@id/add_car_year"
+            android:contentDescription="@string/add_car"/>
     </LinearLayout>
 </FrameLayout>

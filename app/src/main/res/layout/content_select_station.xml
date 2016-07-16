@@ -36,7 +36,8 @@
             android:layout_height="wrap_content"
             android:text="@string/select_station_address_find_text"
             android:nextFocusUp="@id/select_station_address_input"
-            android:nextFocusDown="@+id/select_station_nearby_rv"/>
+            android:nextFocusDown="@+id/select_station_nearby_rv"
+            android:contentDescription="@string/station_search"/>
     </LinearLayout>
     </android.support.v7.widget.CardView>
     <android.support.v7.widget.CardView
